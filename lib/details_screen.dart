@@ -10,6 +10,7 @@ class DetailsScreen extends StatefulWidget {
   @override
   State<DetailsScreen> createState() => _DetailsScreenState();
 }
+//thgfh
 
 class _DetailsScreenState extends State<DetailsScreen> {
   bool isFav = false;
